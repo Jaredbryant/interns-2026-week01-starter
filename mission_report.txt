@@ -1,0 +1,39 @@
+SPOT PATROL MISSION REPORT
+==============================
+Generated: 2026-06-21 23:13:41.849104
+
+MISSION SUMMARY
+--------------------
+Total readings: 792
+Unique laps: 3
+Unique waypoints: 11
+Unique sensor types: 8
+
+FAULT DETECTION
+--------------------
+2026-06-29 09:00:22 hallway_A proximity_cm 8.27 cm FAULT_LOW
+2026-06-29 09:04:46 hallway_C proximity_cm 8.04 cm FAULT_LOW
+2026-06-29 09:05:14 server_room temp_motor_FL 69.62 C FAULT_HIGH
+2026-06-29 09:05:14 server_room temp_motor_RR 69.66 C FAULT_HIGH
+2026-06-29 09:05:19 server_room temp_motor_RL 67.36 C FAULT_HIGH
+2026-06-29 09:05:19 server_room temp_motor_RR 66.51 C FAULT_HIGH
+2026-06-29 09:05:25 server_room temp_motor_FL 67.98 C FAULT_HIGH
+2026-06-29 09:05:25 server_room temp_motor_RL 68.55 C FAULT_HIGH
+2026-06-29 09:05:25 server_room temp_motor_RR 69.72 C FAULT_HIGH
+2026-06-29 09:06:29 hallway_A proximity_cm 8.76 cm FAULT_LOW
+2026-06-29 09:07:00 hallway_B proximity_cm 8.43 cm FAULT_LOW
+2026-06-29 09:07:50 hallway_C proximity_cm 8.95 cm FAULT_LOW
+2026-06-29 09:08:46 hallway_D proximity_cm 9.41 cm FAULT_LOW
+
+Total faults: 13
+
+PER-SENSOR AVERAGES
+--------------------
+proximity_cm: 120.49
+battery_pct: 69.70
+temp_motor_RR: 43.90
+temp_motor_FR: 43.76
+temp_motor_FL: 43.27
+temp_motor_RL: 42.39
+temp_body: 33.29
+velocity_ms: 1.10
